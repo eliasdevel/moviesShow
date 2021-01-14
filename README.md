@@ -4,6 +4,6 @@ A new Flutter project.
 
 ## Getting Started
 
-Simple flutter aplication witch consume's a lumen api
+Simple flutter aplication consuming a lumen api
 
 
